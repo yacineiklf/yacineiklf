@@ -42,11 +42,11 @@ ALSD-2 Mini Project
 
 Un projet en C++ autour des algorithmes et des structures de données.
 
-### 🧩 Le code source se trouve dans le dossier src/.
+#### 🧩 Le code source se trouve dans le dossier src/.
 
-### 🛠️ Consultez le README.md du dépôt pour les instructions de compilation.
+#### 🛠️ Consultez le README.md du dépôt pour les instructions de compilation.
 
-### 📚 Ce projet s’inscrit dans ma pratique et mon apprentissage de la programmation.
+#### 📚 Ce projet s’inscrit dans ma pratique et mon apprentissage de la programmation.
 
 #### 📈 GitHub
 
